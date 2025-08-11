@@ -9,9 +9,9 @@ This project presents a simulation-based study on how to solve the **ticket and 
 ## ✅ Features
 
 - Simulation model of ticket and food queues with 3 scenarios:
-1. **7 food sale points** and **3 ticket sale points**.  
-2. **8 food sale points** and **2 ticket sale points**.  
-3. **9 food sale points** and **1 ticket sale point**.  
+1. **Model1**: 7 food sale points and 3 ticket sale points.  
+2. **FinalModel**: 8 food sale points and 2 ticket sale points.  
+3. 9 food sale points and 1 ticket sale point.  
 And 2 validation points in all of them.  
 - Data-driven configuration to reflect real cinema operation.
 - Analysis of queue bottlenecks and optimization strategies.
