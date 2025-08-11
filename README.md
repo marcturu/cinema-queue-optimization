@@ -1,4 +1,4 @@
-# 🎬 SIM-PROJECT — Cinema Queue Optimization with FlexSim
+# 🎬 SIM-PROJECT — Cinema Queue Optimization  
 
 <sub>🗓️ Developed in April 2024</sub>  
 
