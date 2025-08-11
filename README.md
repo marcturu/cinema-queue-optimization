@@ -1,6 +1,6 @@
 # 🎬 SIM-PROJECT — Cinema Queue Optimization  
 
-<sub>🗓️ Developed in April 2024</sub>  
+<sub>🗓️ Developed in September 2024</sub>  
 
 This project presents a simulation-based study on how to solve the **ticket and food queues problem** in the Parc Vallès cinema, using the **FlexSim** tool.
 
