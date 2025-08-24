@@ -65,7 +65,7 @@ FinalModel_experiment_data.rar
 
 ---
 
-## ⚖️ Copyright
+## ⚖️ Copyright & License
 
 © 2024 Marc Turu Roca and collaborators. All rights reserved.  
 This project is the joint intellectual property of its authors.  
@@ -73,4 +73,4 @@ No part may be copied, modified, distributed, or used without prior written perm
 
 - Marc Mostazo  
 - Sergio Sadornil  
-- Marc Turu  
+- Marc Turu
