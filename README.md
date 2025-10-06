@@ -59,7 +59,7 @@ FinalModel_experiment_data.rar
 ![Captura de pantalla 2025-08-11 150317](https://github.com/user-attachments/assets/4dcc8bd4-e3df-41b5-8af9-1f4e682ed94a)
 ![Estadístics0](https://github.com/user-attachments/assets/77182788-1b86-4911-ae9a-f24ae6fa06e9)
 -
-### "Final Model Simulation":
+### "Final Model Simulation" (A ticket booth is missing due to the limitations of FlexSim PRO):
 ![Captura de pantalla 2025-08-11 145256](https://github.com/user-attachments/assets/0e730b88-50bb-45b8-a9a3-2a4cc5759778)
 -
 ### Model Patient Flow:
