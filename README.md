@@ -16,6 +16,9 @@ And 2 validation points in all of them.
 - Data-driven configuration to reflect real cinema operation.
 - Analysis of queue bottlenecks and optimization strategies.
 - Easy-to-run `.fsm` model file for testing.
+- Data studies and verification.
+- Experiment design and analysis.
+- Non-deterministic model.
 
 ---
 
@@ -46,11 +49,15 @@ FinalModel_experiment_data.rar
 
 ## 📷 Screenshots  
 
+### Conceptual Model:
+![ConceptualModel](https://github.com/user-attachments/assets/5e6298eb-d0dc-4af2-98e0-d5e9495e4095)
+- 
 ### First Model Simulation:
 ![Captura de pantalla 2025-08-11 150517](https://github.com/user-attachments/assets/719658a0-e4cd-4d2c-a4c8-be1ec20a0aba)
 -
 ### First Model Statistics:
 ![Captura de pantalla 2025-08-11 150317](https://github.com/user-attachments/assets/4dcc8bd4-e3df-41b5-8af9-1f4e682ed94a)
+![Estadístics0](https://github.com/user-attachments/assets/77182788-1b86-4911-ae9a-f24ae6fa06e9)
 -
 ### "Final Model Simulation":
 ![Captura de pantalla 2025-08-11 145256](https://github.com/user-attachments/assets/0e730b88-50bb-45b8-a9a3-2a4cc5759778)
@@ -62,6 +69,11 @@ FinalModel_experiment_data.rar
 ![Captura de pantalla 2025-08-11 151011](https://github.com/user-attachments/assets/f4b80a14-63ba-479f-8397-b96eb2138ee0)
 ![Captura de pantalla 2025-08-11 151024](https://github.com/user-attachments/assets/a1043b74-eef8-44c8-b61c-36a27104bde4)
 ![Captura de pantalla 2025-08-11 151040](https://github.com/user-attachments/assets/7711ae90-2e47-4c06-b438-2f372c12ac13)
+-
+### Optimizer (Configuration, Results & Summary):
+![Optimizer](https://github.com/user-attachments/assets/14300f6b-e6a5-49c1-b0a1-f1ef38da7c35)
+![OptimizerResults](https://github.com/user-attachments/assets/6c96274a-a11a-4f00-8c83-558e1956457c)
+![OptimizerSummary](https://github.com/user-attachments/assets/62665f48-78fa-43fe-af62-4e3be5d69b82)
 
 ---
 
