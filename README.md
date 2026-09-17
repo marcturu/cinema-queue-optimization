@@ -74,15 +74,3 @@ FinalModel_experiment_data.rar
 ![Optimizer0](screenshots/optimizer0.jpg)
 ![Optimizer1](screenshots/optimizer1.jpg)
 ![Optimizer2](screenshots/optimizer2.jpg)
-
----
-
-## ⚖️ Copyright & License
-
-© 2024 Marc Turu Roca and collaborators. All rights reserved.  
-This project is the joint intellectual property of its authors.  
-No part may be copied, modified, distributed, or used without prior written permission from all authors.  
-
-- Marc Mostazo  
-- Sergio Sadornil  
-- Marc Turu
