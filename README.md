@@ -1,4 +1,4 @@
-# 🎬 Cinema Queue Optimization — Simulation-based study with data analysis
+# 🎬 Cinema Queue Optimization — Simulation-based study with data analysis and scenario comparison
 
 <sub>🗓️ Developed in September 2024</sub>  
 
