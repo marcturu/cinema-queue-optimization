@@ -1,4 +1,4 @@
-# 🎬 SIM-PROJECT — Cinema Queue Optimization  
+# 🎬 Cinema Queue Optimization — Simulation-based study with data analysis
 
 <sub>🗓️ Developed in September 2024</sub>  
 
